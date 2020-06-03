@@ -1,1 +1,1 @@
-## Hi
+## Bored Pholio - Interactive Personal Portfolio Site
