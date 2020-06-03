@@ -1,1 +1,1 @@
-## Bored Pholio - Interactive Personal Portfolio Site
+## Bored Folio - Interactive Personal Portfolio Site
